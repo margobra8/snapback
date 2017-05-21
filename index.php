@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Images</title>
+    <title>Snapback Image Sharing Azure App| My Images</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" 
         integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" 
@@ -21,9 +21,9 @@
 
 </head>
 <body>
-    <div class="container-fluid bg-primary">
+    <div class="container-fluid bg-success">
         <div class="row col-md-12">
-            <h3>My Images</h3>
+            <h3>Snapback | My Images</h3>
         </div>
     </div>
 
